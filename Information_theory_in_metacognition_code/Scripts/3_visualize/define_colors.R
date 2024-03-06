@@ -1,0 +1,10 @@
+
+# Color Blind Palette (Okabe & Ito, 2008)
+black          = rgb(0  , 0  , 0  , .5)
+orange         = rgb(.9 , .6 , 0  , .5)
+sky_blue       = rgb(.35, .7 , .9 , .5)
+bluish_green   = rgb(0  , .6 , .5 , .5)
+yellow         = rgb(.95, .9 , .25, .5)
+blue           = rgb(0  , .45, .7 , .5)
+vermillon      = rgb(.8 , .4 , 0  , .5)
+reddish_purple = rgb(.8 , .6 , .7 , .8)
