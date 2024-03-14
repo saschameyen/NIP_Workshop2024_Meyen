@@ -1,7 +1,7 @@
 import numpy as np
 
 import os
-os.chdir("C:/Users/saschameyen/OneDrive/2 PostDoc/Neural Information Processing Collaboration/NIP Retreat Schloss Weitenburg/Workshop/Information_theory_in_metacognition_code/NIP/Python")
+os.chdir("C:/Users/saschameyen/Desktop/NIP_Workshop2024_Meyen/NIP/Python")
 os.getcwd()
 
 from meta_measures_library import *
